@@ -55,3 +55,4 @@ material extra que incorporaremos al programa
 - Facilidad de uso para el usuario
 - El sistema identificara al usuario rapidamente a la hora de su ingreso 
 ## Organigrama 
+(https://github.com/Samantha-15/Aprendamos-juntos/commit/8b2cc2a584fe5ed1e61a81d025ce394415102b68)
