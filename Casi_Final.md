@@ -8,7 +8,8 @@ proceso puede llegar a ser complejo porque surgen muchas preguntas y de ahí una
 de las habilidades que posean.
 #### General y especifico 
 General: ayuda a las personas al desarrollo de sus habilidades psicomotrices a tal grado que estos puedan efectuar sus labores de manera efectiva sin llegar a tener ningún 
-conflicto.
+conflicto.<br> 
+
 Específico: Que los individuos formen parte de un ambiente en donde vamos a conocer sus habilidades fuertes y que de ellas su desarrollo sea mas eficaz, se busca una 
 independencia por parte de del usuario, además de que estos se sientas cómodos usando esta aplicación y sus supervisores puedan ver un avance significativo en la vida 
 cotidiana, logrando que estas personas lleguen al grado de poder adaptarse a la sociedad sin ningún tipo de problema.
@@ -56,3 +57,5 @@ material extra que incorporaremos al programa
 - El sistema identificara al usuario rapidamente a la hora de su ingreso 
 ## Organigrama 
 (https://github.com/Samantha-15/Aprendamos-juntos/commit/8b2cc2a584fe5ed1e61a81d025ce394415102b68)
+
+
