@@ -13,6 +13,24 @@ Así que no dudes más y visita todas las secciones de esta página, conoce más
 En caso de que tengas alguna duda o quieras una aclaración específica, no dudes en ponerte en contacto con nosotros a través de correo electrónico o nuestra ventana de ayuda. Estamos aquí para servirte.
 Gracias por visitarnos y disfruta tu experiencia con nosotros.
 ###  Conocenos
+
+## GESALI 
+es una empresa intermediaria en la cual queremos que cada proyecto, cada idea, o cada sueño, se haga realidad. Soomos una conección entre el desarrollador y el cliente, mediante tranasparencia, comafianza y estabilidad, queremos que la empresa crezca y se desarrolle de una manera eficiente, y ser la empresa preferida de estos desarrolladores.
+
+# "GESALI EMPRESA CREADORA DE GRANDES MARCAS"
+
+## MISIÓN
+Nuestra misión en GESALI es facilitar la conexión entre desarrolladores y usuarios del mercado digital, Nos  dedicamos a simplificar y optimizar el trabajo, mediante soluciones inovadoras y eficiente, donde promovemos la trasparencia, confianza y eficacia de cada proyecto, buscamos ser el mejor socio de estos desarrolladores que buscan compartir su proyecto. Con una manera sostenible y responsable, lo llevamis a cabo. 
+
+## VISIÓN 
+Nuestra visión en GESALI es ser una empresa reconocida internacionalmente por exelencia y eficacia en cada proyecto desarrollado, ser una empresa posicionada y capaz de realizar cada idea propuesta. A través de nuestra inovación continua y nuestro compromiso con  la exelencia, buscamos costruir relaciones d elargo plazo que impulcen el éxito mutuo y el crecimiento sostenible de nuestros clientes 
+
+## Valores 
+1.- Confianza: Fomentamos relaciones basadas en la confianza mutua, actuando con integridad y trasparencia en todas nuestras interacciones y compromisos. 
+2.- Eficiencia: Nos comprometemos a ofrecer soluciones eficientes y efectivas que agregen valor y simplifiquen los procesos comerciales para nuestros clientes y socios.
+3.- Inovacion: impulsamos la inovación constante en nuestro servicios y plataformas, buscamos siempre nuevas formas de mejorar y adaptarnos a las necesidades del mercado global.
+4.- Colaboración: valoramos la colaboracón y el trabajo en equipo, reconociendo que juntos podemos mas y ofrecer soluciines mas completas y satisfactorias para nuestros clientes.
+5.- Orientacion al cliente: Nos comprometemos a entender y satisfacer las necesidades unicas de nuestros clientes, proporcionando un servicio personalizado y de alta calidad que impulse su exito en el mercado global. 
 ### Juego 
 ##### Decisiones:
 La toma de decisiones es de suma importancia para los niños. En nuestra aplicación, queremos darles la confianza y enseñarles 
