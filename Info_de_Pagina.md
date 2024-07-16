@@ -12,27 +12,28 @@ Le enseñaremos al pequeño la importancia de la toma de decisiones, y te explic
 Así que no dudes más y visita todas las secciones de esta página, conoce más y ten la certeza de que somos la mejor aplicación de México.
 En caso de que tengas alguna duda o quieras una aclaración específica, no dudes en ponerte en contacto con nosotros a través de correo electrónico o nuestra ventana de ayuda. Estamos aquí para servirte.
 Gracias por visitarnos y disfruta tu experiencia con nosotros.
-###  Conocenos
+# Conocenos
 
-## GESALI 
+### GESALI 
 es una empresa intermediaria en la cual queremos que cada proyecto, cada idea, o cada sueño, se haga realidad. Soomos una conección entre el desarrollador y el cliente, mediante tranasparencia, comafianza y estabilidad, queremos que la empresa crezca y se desarrolle de una manera eficiente, y ser la empresa preferida de estos desarrolladores.
 
-# "GESALI EMPRESA CREADORA DE GRANDES MARCAS"
+## "GESALI EMPRESA CREADORA DE GRANDES MARCAS"
 
-## MISIÓN
+### MISIÓN
 Nuestra misión en GESALI es facilitar la conexión entre desarrolladores y usuarios del mercado digital, Nos  dedicamos a simplificar y optimizar el trabajo, mediante soluciones inovadoras y eficiente, donde promovemos la trasparencia, confianza y eficacia de cada proyecto, buscamos ser el mejor socio de estos desarrolladores que buscan compartir su proyecto. Con una manera sostenible y responsable, lo llevamis a cabo. 
 
-## VISIÓN 
+### VISIÓN 
 Nuestra visión en GESALI es ser una empresa reconocida internacionalmente por exelencia y eficacia en cada proyecto desarrollado, ser una empresa posicionada y capaz de realizar cada idea propuesta. A través de nuestra inovación continua y nuestro compromiso con  la exelencia, buscamos costruir relaciones d elargo plazo que impulcen el éxito mutuo y el crecimiento sostenible de nuestros clientes 
 
-## Valores 
-1.- Confianza: Fomentamos relaciones basadas en la confianza mutua, actuando con integridad y trasparencia en todas nuestras interacciones y compromisos. 
-2.- Eficiencia: Nos comprometemos a ofrecer soluciones eficientes y efectivas que agregen valor y simplifiquen los procesos comerciales para nuestros clientes y socios.
-3.- Inovacion: impulsamos la inovación constante en nuestro servicios y plataformas, buscamos siempre nuevas formas de mejorar y adaptarnos a las necesidades del mercado global.
-4.- Colaboración: valoramos la colaboracón y el trabajo en equipo, reconociendo que juntos podemos mas y ofrecer soluciines mas completas y satisfactorias para nuestros clientes.
-5.- Orientacion al cliente: Nos comprometemos a entender y satisfacer las necesidades unicas de nuestros clientes, proporcionando un servicio personalizado y de alta calidad que impulse su exito en el mercado global. 
-### Juego 
-##### Decisiones:
+### Valores 
+- Confianza: Fomentamos relaciones basadas en la confianza mutua, actuando con integridad y trasparencia en todas nuestras interacciones y compromisos.
+- Eficiencia: Nos comprometemos a ofrecer soluciones eficientes y efectivas que agregen valor y simplifiquen los procesos comerciales para nuestros clientes y socios.
+- Inovacion: impulsamos la inovación constante en nuestro servicios y plataformas, buscamos siempre nuevas formas de mejorar y adaptarnos a las necesidades del mercado global.
+- Colaboración: valoramos la colaboracón y el trabajo en equipo, reconociendo que juntos podemos mas y ofrecer soluciines mas completas y satisfactorias para nuestros clientes.
+- Orientacion al cliente: Nos comprometemos a entender y satisfacer las necesidades unicas de nuestros clientes, proporcionando un servicio personalizado y de alta calidad que impulse su exito en el mercado global. 
+
+# Juego 
+### Decisiones:
 La toma de decisiones es de suma importancia para los niños. En nuestra aplicación, queremos darles la confianza y enseñarles 
 que cada acción tiene una consecuencia. Hablaremos con ellos sobre sus capacidades y dificultades, intentando que reconozcan 
 cuándo necesitan apoyo. Esta aceptación les preparará para superar las dificultades. Hay que reconocerles cuando hacen las 
@@ -41,15 +42,15 @@ juegos básicos como aprender a elegir su desayuno o las consecuencias de la rop
 Estos se manejarán por diferentes iconos y cada uno tendrá su propio nivel de dificultad, el cual sus tutores podrán ver sus 
 avances.
 
-#####  Exploración:
+###  Exploración:
 Ayudarlos a que se adapten a su entorno es de suma importancia para su desarrollo social, ya que constantemente estarán en contacto con el mundo exterior, usando el transporte público, yendo de compras, en pocas palabras, haciendo sus actividades cotidianas. Es necesario que queden con amigos de su misma edad y que tengan experiencias acordes a cada etapa de su vida. Los niños tienen que vivir experiencias tanto positivas como conflictivas, pues enfrentarse a los problemas también los hará más independientes. Por ello, en nuestro juego aprenderán a hacer cosas de la vida cotidiana que podrán identificar y aplicar en situaciones de su realidad.
 
-##### Emociones:
+### Emociones:
 Esta es de suma importancia para el desarrollo de todo ser humano. Es crucial que los niños aprendan a identificar lo que sienten y cómo se llama esa emoción, permitiéndoles tomar decisiones coherentes con lo que quieren, lo que reducirá su estrés y ansiedad. En la aplicación, tendremos una sección en la cual el niño podrá aprender a diferenciar las emociones e identificar cómo se siente o cómo lo hizo sentir determinada situación.
 
-##### Autocuidado:
+### Autocuidado:
 Como todo ser humano, necesitamos asearnos y cuidarnos. Hay que ayudar a los niños a entender la importancia del autocuidado, como lavarse los dientes y tener una dieta balanceada, no solo por cuestiones estéticas sino también por su salud. En nuestra aplicación, aprenderán a identificar los alimentos adecuados para tener una dieta balanceada y cómo combinarlos durante la semana, además de que podrán prepararse sus propios alimentos.
 
-##### Rutinas:
+### Rutinas:
 Es importante para ellos saber sus actividades durante el día, ya que desconocer lo que va a pasar les puede generar emociones difíciles de controlar. Estas rutinas sirven para que puedan generar independencia, ya que llevan un orden y enseñan que hay un tiempo determinado para hacer ciertas actividades durante el día. En la aplicación, se planea manejar un pequeño límite de tiempo para que los niños entiendan que habrá momentos en el día en que tengan que soltar el teléfono y no generar una obsesión con estos. 
 
