@@ -19,9 +19,29 @@ cotidiana, logrando que estas personas lleguen al grado de poder adaptarse a la 
 Nuestro alcance por el momento será en desarrollar las habilidades psicomotrices de nuestro usuario principal. 
 Siendo este un videojuego con diferentes actividades los cuales cada uno tendrá diferentes niveles que los niños tendrán que superar al propio ritmo de esto. 
 Además de que los tutores tendrán acceso para ver el progreso que ha tenido el usuario con nuestro videojuego.
+
+* relacionar los onjetivos con el alcance 
 ## Diagrama de contexto
 ![nuestro diagrama](C:\Users\PC\Documents\Escuela\Integradora I\CONTEXTO.drawio)
 ## Tipos de Mercado 
+* haz los tipos de mercado 
+## GESALI 
+es una empresa intermediaria en la cual queremos que cada proyecto, cada idea, o cada sueño, se haga realidad. Soomos una conección entre el desarrollador y el cliente, mediante tranasparencia, comafianza y estabilidad, queremos que la empresa crezca y se desarrolle de una manera eficiente, y ser la empresa preferida de estos desarrolladores.
+
+#### "GESALI EMPRESA CREADORA DE GRANDES MARCAS"
+
+#### Misión
+Nuestra misión en GESALI es facilitar la conexión entre desarrolladores y usuarios del mercado digital, Nos  dedicamos a simplificar y optimizar el trabajo, mediante soluciones inovadoras y eficiente, donde promovemos la trasparencia, confianza y eficacia de cada proyecto, buscamos ser el mejor socio de estos desarrolladores que buscan compartir su proyecto. Con una manera sostenible y responsable, lo llevamis a cabo. 
+
+#### Visión
+Nuestra visión en GESALI es ser una empresa reconocida internacionalmente por exelencia y eficacia en cada proyecto desarrollado, ser una empresa posicionada y capaz de realizar cada idea propuesta. A través de nuestra inovación continua y nuestro compromiso con  la exelencia, buscamos costruir relaciones d elargo plazo que impulcen el éxito mutuo y el crecimiento sostenible de nuestros clientes 
+
+#### Valores 
+- Confianza: Fomentamos relaciones basadas en la confianza mutua, actuando con integridad y trasparencia en todas nuestras interacciones y compromisos.
+- Eficiencia: Nos comprometemos a ofrecer soluciones eficientes y efectivas que agregen valor y simplifiquen los procesos comerciales para nuestros clientes y socios.
+- Inovacion: impulsamos la inovación constante en nuestro servicios y plataformas, buscamos siempre nuevas formas de mejorar y adaptarnos a las necesidades del mercado global.
+- Colaboración: valoramos la colaboracón y el trabajo en equipo, reconociendo que juntos podemos mas y ofrecer soluciines mas completas y satisfactorias para nuestros clientes.
+- Orientacion al cliente: Nos comprometemos a entender y satisfacer las necesidades unicas de nuestros clientes, proporcionando un servicio personalizado y de alta calidad que impulse su exito en el mercado global. 
 ## Justificación
 Como equipo hemos notado un vacío grande dentro de la educación moderna en la cual podemos destacar muchas deficiencias del sistema, sin embargo en este proyecto se esta 
 buscando que un determinado grupo de personas se puedan beneficiar de nuestro proyecto, dado el caso de que aunque ya existen lugar donde puedan mejorar sus habilidades, 
@@ -49,12 +69,12 @@ material extra que incorporaremos al programa
 ## Requerimientos del sistema 
 - El sistema enviara un enlace para descargar la pagina 
 - El sistema permitira cambiar o actualizar la informaqción del proyecto
-- Al registrar un nuevo9 usuario se le enviara un formulario para poder ingresar al juego y en la pagina pueda el tutor ver sus avances
+- Al registrar un nuevo usuario se le enviara un formulario para poder ingresar al juego y en la pagina pueda el tutor ver sus avances
 ## Requerimientos del usuario 
 - El usuario se le hara un breve registro
-- El sistema debera ser capaz de guardar lpos avances del niño
+- El sistema debera ser capaz de guardar los avances del niño
 - Facilidad de uso para el usuario
-- El sistema identificara al usuario rapidamente a la hora de su ingreso 
+- El sistema identificara al usuario rapidamente a la hora de su ingreso
 ## Organigrama 
 (https://github.com/Samantha-15/Aprendamos-juntos/commit/8b2cc2a584fe5ed1e61a81d025ce394415102b68)
 
