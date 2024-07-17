@@ -1,4 +1,23 @@
-# Aprendamos juntos
+# GESALI 
+es una empresa intermediaria en la cual queremos que cada proyecto, cada idea, o cada sueño, se haga realidad. Soomos una conección entre el desarrollador y el cliente, mediante tranasparencia, comafianza y estabilidad, queremos que la empresa crezca y se desarrolle de una manera eficiente, y ser la empresa preferida de estos desarrolladores.
+
+#### "GESALI empresa creadora de tu diversión"
+
+#### Misión
+Nuestra misión en GESALI es facilitar la conexión entre desarrolladores y usuarios del mercado digital, Nos  dedicamos a simplificar y optimizar el trabajo, mediante soluciones inovadoras y eficiente, donde promovemos la trasparencia, confianza y eficacia de cada proyecto, buscamos ser el mejor socio de estos desarrolladores que buscan compartir su proyecto. Con una manera sostenible y responsable, lo llevamis a cabo. 
+
+#### Visión
+Nuestra visión en GESALI es ser una empresa reconocida internacionalmente por exelencia y eficacia en cada proyecto desarrollado, ser una empresa posicionada y capaz de realizar cada idea propuesta. A través de nuestra inovación continua y nuestro compromiso con  la exelencia, buscamos costruir relaciones d elargo plazo que impulcen el éxito mutuo y el crecimiento sostenible de nuestros clientes 
+
+#### Valores 
+- Confianza: Fomentamos relaciones basadas en la confianza mutua, actuando con integridad y trasparencia en todas nuestras interacciones y compromisos.
+- Eficiencia: Nos comprometemos a ofrecer soluciones eficientes y efectivas que agregen valor y simplifiquen los procesos comerciales para nuestros clientes y socios.
+- Inovacion: impulsamos la inovación constante en nuestro servicios y plataformas, buscamos siempre nuevas formas de mejorar y adaptarnos a las necesidades del mercado global.
+- Colaboración: valoramos la colaboracón y el trabajo en equipo, reconociendo que juntos podemos mas y ofrecer soluciines mas completas y satisfactorias para nuestros clientes.
+- Orientacion al cliente: Nos comprometemos a entender y satisfacer las necesidades unicas de nuestros clientes, proporcionando un servicio personalizado y de alta calidad que impulse su exito en el mercado global.
+## Organigrama 
+![](https://github.com/Samantha-15/Aprendamos-juntos/blob/main/Gr%C3%A1fico%20Organigrama%20Empresarial%20Fotos%20Coloquiales%20Simple%20Profesional%20Azul%20Lila.png) <br></br>  
+# Poyecto a realizar: Aprendamos juntos
 ## Objetivos
 Nuestro proyecto va enfocado a cierto grupo de personas, y lo que buscamos con nuestro proyecto es que cada uno de ellos tenga un mejor desarrollo en su progreso individual,
 tras una investigación de campo determinamos que cada uno de los individuos tienen habilidades diferentes, independientemente de su edad, aunque la persona tenga edad donde 
@@ -13,6 +32,7 @@ conflicto.<br>
 Específico: Que los individuos formen parte de un ambiente en donde vamos a conocer sus habilidades fuertes y que de ellas su desarrollo sea mas eficaz, se busca una 
 independencia por parte de del usuario, además de que estos se sientas cómodos usando esta aplicación y sus supervisores puedan ver un avance significativo en la vida 
 cotidiana, logrando que estas personas lleguen al grado de poder adaptarse a la sociedad sin ningún tipo de problema.
+**especificar mas para el objetivo general**
 
 
 ## Alcances
@@ -20,28 +40,12 @@ Nuestro alcance por el momento será en desarrollar las habilidades psicomotrice
 Siendo este un videojuego con diferentes actividades los cuales cada uno tendrá diferentes niveles que los niños tendrán que superar al propio ritmo de esto. 
 Además de que los tutores tendrán acceso para ver el progreso que ha tenido el usuario con nuestro videojuego.
 
-* relacionar los onjetivos con el alcance 
+**relacionar los objetivos con el alcance** 
 ## Diagrama de contexto
-![nuestro diagrama](C:\Users\PC\Documents\Escuela\Integradora I\CONTEXTO.drawio)
+![](https://github.com/Samantha-15/Aprendamos-juntos/blob/main/CONTEXTO.drawio.png) <br></br>  
 ## Tipos de Mercado 
-* haz los tipos de mercado 
-## GESALI 
-es una empresa intermediaria en la cual queremos que cada proyecto, cada idea, o cada sueño, se haga realidad. Soomos una conección entre el desarrollador y el cliente, mediante tranasparencia, comafianza y estabilidad, queremos que la empresa crezca y se desarrolle de una manera eficiente, y ser la empresa preferida de estos desarrolladores.
-
-#### "GESALI EMPRESA CREADORA DE GRANDES MARCAS"
-
-#### Misión
-Nuestra misión en GESALI es facilitar la conexión entre desarrolladores y usuarios del mercado digital, Nos  dedicamos a simplificar y optimizar el trabajo, mediante soluciones inovadoras y eficiente, donde promovemos la trasparencia, confianza y eficacia de cada proyecto, buscamos ser el mejor socio de estos desarrolladores que buscan compartir su proyecto. Con una manera sostenible y responsable, lo llevamis a cabo. 
-
-#### Visión
-Nuestra visión en GESALI es ser una empresa reconocida internacionalmente por exelencia y eficacia en cada proyecto desarrollado, ser una empresa posicionada y capaz de realizar cada idea propuesta. A través de nuestra inovación continua y nuestro compromiso con  la exelencia, buscamos costruir relaciones d elargo plazo que impulcen el éxito mutuo y el crecimiento sostenible de nuestros clientes 
-
-#### Valores 
-- Confianza: Fomentamos relaciones basadas en la confianza mutua, actuando con integridad y trasparencia en todas nuestras interacciones y compromisos.
-- Eficiencia: Nos comprometemos a ofrecer soluciones eficientes y efectivas que agregen valor y simplifiquen los procesos comerciales para nuestros clientes y socios.
-- Inovacion: impulsamos la inovación constante en nuestro servicios y plataformas, buscamos siempre nuevas formas de mejorar y adaptarnos a las necesidades del mercado global.
-- Colaboración: valoramos la colaboracón y el trabajo en equipo, reconociendo que juntos podemos mas y ofrecer soluciines mas completas y satisfactorias para nuestros clientes.
-- Orientacion al cliente: Nos comprometemos a entender y satisfacer las necesidades unicas de nuestros clientes, proporcionando un servicio personalizado y de alta calidad que impulse su exito en el mercado global. 
+**haz los tipos de mercado** 
+ 
 ## Justificación
 Como equipo hemos notado un vacío grande dentro de la educación moderna en la cual podemos destacar muchas deficiencias del sistema, sin embargo en este proyecto se esta 
 buscando que un determinado grupo de personas se puedan beneficiar de nuestro proyecto, dado el caso de que aunque ya existen lugar donde puedan mejorar sus habilidades, 
@@ -75,7 +79,6 @@ material extra que incorporaremos al programa
 - El sistema debera ser capaz de guardar los avances del niño
 - Facilidad de uso para el usuario
 - El sistema identificara al usuario rapidamente a la hora de su ingreso
-## Organigrama 
-(https://github.com/Samantha-15/Aprendamos-juntos/commit/8b2cc2a584fe5ed1e61a81d025ce394415102b68)
+
 
 
