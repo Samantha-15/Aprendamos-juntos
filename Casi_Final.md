@@ -25,22 +25,23 @@ la sociedad lo declare como autosuficiente , este puede tener mas dificultades a
 concentración o interés en ello, un ejemplo de esto podría ser la actividad de amarrarse las agujetas de un zapato, ya que dependiendo de las habilidades que el niño posea este 
 proceso puede llegar a ser complejo porque surgen muchas preguntas y de ahí una distracción. Por eso nosotros como equipo queremos que cada uno explote el potencial de cada una 
 de las habilidades que posean.
-#### General y especifico 
+#### General y específicos 
 General: ayuda a las personas al desarrollo de sus habilidades psicomotrices a tal grado que estos puedan efectuar sus labores de manera efectiva sin llegar a tener ningún 
 conflicto.<br> 
 
-Específico: Que los individuos formen parte de un ambiente en donde vamos a conocer sus habilidades fuertes y que de ellas su desarrollo sea mas eficaz, se busca una 
-independencia por parte de del usuario, además de que estos se sientas cómodos usando esta aplicación y sus supervisores puedan ver un avance significativo en la vida 
-cotidiana, logrando que estas personas lleguen al grado de poder adaptarse a la sociedad sin ningún tipo de problema.
-**especificar mas para el objetivo general**
+Específicos: 
+- Lograr un interfaz intuitiva para el usuario
+- Promover la independencia del usuario 
+- Fomentar que el usuario pueda salir al mundo exterior por si solo 
+- Que al completar una tarea en el videojuego, los usuarios tambien puedan completar sus actividades cotidianas en el mundo exterior
+- Realizar los soportes necesarios para que los supervisores puedan ver un avance en los usuario 
 
 
 ## Alcances
-Nuestro alcance por el momento será en desarrollar las habilidades psicomotrices de nuestro usuario principal. 
-Siendo este un videojuego con diferentes actividades los cuales cada uno tendrá diferentes niveles que los niños tendrán que superar al propio ritmo de esto. 
+Nuestro alcance actual relacionado a nuestro objetivos general y específicos sera que el videojuego ayude a lograr la independencia de nuestros usuarios. <br>
+Poniendoles en la pantalla situaciones que tendran que enfrentar en la vida cotidiana, el videojuego tendra diferentes actividades los cuales cada uno tendrá diferentes niveles que los niños tendrán que superar al propio ritmo de esto. 
 Además de que los tutores tendrán acceso para ver el progreso que ha tenido el usuario con nuestro videojuego.
 
-**relacionar los objetivos con el alcance** 
 ## Diagrama de contexto
 ![](https://github.com/Samantha-15/Aprendamos-juntos/blob/main/CONTEXTO.drawio.png) <br></br>  
 ## Tipos de Mercado 
