@@ -1,5 +1,5 @@
 # GESALI 
-es una empresa intermediaria en la cual queremos que cada proyecto, cada idea, o cada sueño, se haga realidad. Soomos una conección entre el desarrollador y el cliente, mediante tranasparencia, comafianza y estabilidad, queremos que la empresa crezca y se desarrolle de una manera eficiente, y ser la empresa preferida de estos desarrolladores.
+es una empresa intermediaria en la cual queremos que cada proyecto, cada idea, o cada sueño, se haga realidad. Somos una conección entre el desarrollador y el cliente, mediante tranasparencia, comafianza y estabilidad, queremos que la empresa crezca y se desarrolle de una manera eficiente, y ser la empresa preferida de estos desarrolladores.
 
 #### "GESALI empresa creadora de tu diversión"
 
