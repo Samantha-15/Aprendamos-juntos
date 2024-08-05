@@ -45,7 +45,7 @@ Además de que los tutores tendrán acceso para ver el progreso que ha tenido el
 ## Diagrama de contexto
 ![](https://github.com/Samantha-15/Aprendamos-juntos/blob/main/CONTEXTO.drawio.png) <br></br>  
 ## Tipos de Mercado 
-**haz los tipos de mercado** 
+Nuestro mercado geografico nos vamos a centrar en el geográfico, ya que 
  
 ## Justificación
 Como equipo hemos notado un vacío grande dentro de la educación moderna en la cual podemos destacar muchas deficiencias del sistema, sin embargo en este proyecto se esta 
